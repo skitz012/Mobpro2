@@ -1,0 +1,23 @@
+What we need to get done:
+
+* Create 5 screens (Advisable, create 5 javascript files) called:
+	* HomeScreen -- (X)
+	* ViewContact -- TODO--
+	* EditContact -- TODO--
+	* AddContact -- TODO--
+	* Settings
+
+* Create a AddContact screen, make sure it can provide input for the user for:
+	* Name
+	* Department
+	* Phone
+	* Address
+
+	And there is a save button that will call a fetch function and will use the HTTP method POST
+		Make sure the endpoint is correct and the body field on the object is set correctly
+
+	After a successful fetch call, use the navigation object to navigate back to HomeScreen
+
+
+
+
